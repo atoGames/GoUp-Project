@@ -2,4 +2,4 @@
 Simple project - GoUP
  In the build test folder there is a version for Android 23
 * Control by touch or mouse
- * I appreciate the support : paypal.me/AliMohameed
+ * I appreciate the support : www.paypal.me/AliMohameed
